@@ -1,4 +1,4 @@
-# Modovision private proxy pool
+# proxy pool
 - [x] mongodb
 - [x] [mongo express (GUI)](http://172.16.16.103:8082/)
 - [x] [scylla](https://github.com/imWildCat/scylla)
