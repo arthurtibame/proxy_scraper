@@ -10,7 +10,7 @@ services:
     ports: 
       - 27017:27017
     volumes: 
-      - /mnt/mongo-volume:/data/db
+      - ./mongo-volume:/data/db
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: 2020aiot

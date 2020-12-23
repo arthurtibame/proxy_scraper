@@ -3,3 +3,4 @@ env
 mongo-volume
 .vscode
 __pycache__
+mysql-data

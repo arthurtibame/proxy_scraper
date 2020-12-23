@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 ITEM_PIPELINES = {
    'proxy_scraper.pipelines.ProxyScraperPipeline': 300,
 }
-MYSQL_SERVER = "172.16.16.105"
+MYSQL_SERVER = "mysql_db"
 MYSQL_PORT = 3306
 MYSQL_DB = "Scrapy"
 MYSQL_COLLECTION = "proxy_pool"
