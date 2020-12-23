@@ -1,0 +1,5 @@
+scylla
+env
+mongo-volume
+.vscode
+__pycache__
